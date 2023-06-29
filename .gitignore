@@ -165,3 +165,5 @@ data/
 #ignore pycharm stuff 
 .idea/
 
+#driveupload
+.tmp.driveupload/
