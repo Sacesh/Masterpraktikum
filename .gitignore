@@ -167,3 +167,6 @@ data/
 
 #driveupload
 .tmp.driveupload/
+
+#ignore files in testdata
+testdata/*
