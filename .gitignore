@@ -170,3 +170,6 @@ data/
 
 #ignore files in testdata
 testdata/*
+
+#ignore wandb folder
+wandb/
