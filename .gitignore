@@ -173,3 +173,9 @@ testdata/*
 
 #ignore wandb folder
 wandb/
+
+#ignore vscode 
+.vscode/
+
+#ignore mp_venv
+mp_venv/
